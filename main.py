@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 
 # Configurações
-REPO_DIR = "."  # Altere para o caminho do seu repositório local
+REPO_DIR = "/home/birudin/projetos/sabeNe"  # Altere para o caminho do seu repositório local
 BRANCH = "main"  # Altere se estiver em outra branch
 
 def atualizar_arquivo():
